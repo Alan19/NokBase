@@ -1,13 +1,21 @@
-README
-	NokBase Profile is an app in beta. It shows you the placeholder layout of the profile and social media feed screens. To navigate around the app, tap on the star on the main screen to look at the profile. Tap the map image in the profile screen to navigate back to the social media feed. 
+#README
+
+NokBase Profile is an app in beta. It shows you the placeholder layout of the profile and social media feed screens. To navigate around the app, tap on the star on the main screen to look at the profile. Tap the map image in the profile screen to navigate back to the social media feed. 
+
 CONTACT
-	If you have any problems or suggestions, contact us by sending an email to zxx3294@g.rit.edu
+
+  If you have any problems or suggestions, contact us by sending an email to zxx3294@g.rit.edu
+
 WEB SITE
-	If you want to contribute to the project, submit a pull request to 
+
+  If you want to contribute to the project, submit a pull request to 
 	https://github.com/Alan19/NokBase
+
 INSTALLATION INSTRUCTIONS
-	1. Download the apk file from the website on your Android device or PC. (If you downloaded the APK on your PC, transfer it to a directory in your Android device through a USB cable, then follow the following step)
+
+  1. Download the apk file from the website on your Android device or PC. (If you downloaded the APK on your PC, transfer it to a directory in your Android device through a USB cable, then follow the following step)
 	2. If you downloaded the APK on your Android device, install it by navigating to the downloads folder from a file manager app and tap on it. Follow the prompts to install the app. If you transferred the file from your PC, locate the file in the directory you transferred it to and tap it to install.
+
 LICENSE
 
 MIT License
