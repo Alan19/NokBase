@@ -1,4 +1,4 @@
-#README
+# README
 
 NokBase Profile is an app in beta. It shows you the placeholder layout of the profile and social media feed screens. To navigate around the app, tap on the star on the main screen to look at the profile. Tap the map image in the profile screen to navigate back to the social media feed. 
 
